@@ -1,0 +1,14 @@
+{
+  "theme": "Dracula",
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "inlay_hints": {
+    "enabled": true
+  },
+  "soft_wrap": "editor_width",
+  "formatter": "auto",
+  "format_on_save": "on",
+  "journal": {
+    "hour_format": "hour24"
+  }
+}
