@@ -17,6 +17,23 @@
         "source.fixAll.eslint": true,
         "source.organizeImports": true
       }
+    },
+    "TypeScript": {
+      "code_actions_on_format": {
+        "source.fixAll.eslint": true,
+        "source.organizeImports": true
+      }
+    },
+    "TSX": {
+      "code_actions_on_format": {
+        "source.fixAll.eslint": true,
+        "source.organizeImports": true
+      }
+    },
+    "Python": {
+      "inlay_hints": {
+        "enabled": true
+      }
     }
   }
 }
